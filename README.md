@@ -1,5 +1,6 @@
 # Q-Learning2DMaze
 My code implementation with comments, class structure and terminal arguments for finding optimal route in 2d Maze.
+
 ![Alt Text](https://github.com/rafmph/Q-Learning2DMaze/blob/master/mazeexample.gif)
 
 [Gym maze environment by MattChanTK must be installed](https://github.com/MattChanTK/gym-maze)
