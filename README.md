@@ -4,4 +4,6 @@ My code implementation with comments, class structure and terminal arguments for
 
 [Gym maze environment by MattChanTK must be installed](https://github.com/MattChanTK/gym-maze)
 
-Code executes from terminal by typing `python3 reinforcement_maze.py --episodes 50000 --iterations 200 --explore_r 0.001 --discount_r 10` arguments can also be omitted and default hyperparams will be chosen.
+Code executes from terminal by typing `python3 reinforcement_maze.py --episodes 50000 --iterations 200 --explore_r 0.001 --discount_r 10` these arguments can also be ommited and default hyperparams will be chosen.
+
+You can choose 12 different environments with different maze sizes for deploying the reinforcement learning model.
