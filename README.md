@@ -20,3 +20,5 @@ After entering command in terminal you'll be prompted to choose 12 different ava
 10. 30x30 Random structure maze WITH portals
 11. 100x100 Same structure maze without portals
 12. 100x100 Random structure maze without portals
+
+[Original code provided by MattChanTK](https://github.com/MattChanTK/ai-gym/blob/master/maze_2d/maze_2d_q_learning.py)
